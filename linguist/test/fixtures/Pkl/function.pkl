@@ -1,2 +1,0 @@
-function id(x) = x
-result = id(1)

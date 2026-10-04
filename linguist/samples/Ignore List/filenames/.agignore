@@ -1,6 +1,0 @@
-plugins/discourse-math/public/mathjax/*
-plugins/docker_manager/assets/docker-manager-app.js
-plugins/docker_manager/assets/docker-manager-vendor.js
-plugins/etherpad-lite/tests/*
-plugins/etherpad-lite/src/*
-plugins/etherpad-lite/bin/*

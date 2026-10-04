@@ -1,1 +1,0 @@
-function /* why */ f() = 1
